@@ -32,7 +32,3 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunfuguiii&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunfuguiii&layout=compact&theme=default)
 
-## 📫 联系我
-
-- 💼 求职方向：AI 全栈开发 / AI 基建
-- 📧 Email：`（可选填，公开会被爬虫抓取，建议用备用邮箱）`
